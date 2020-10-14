@@ -12,6 +12,8 @@ We had a sample of 30,000 people in which we had to perform Exploratory Data Ana
 
 [Deployment link](https://credit-card-default-predicto.herokuapp.com/)
 ---
+### Screenshot
+![cc](https://user-images.githubusercontent.com/55499787/96006550-39d4eb00-0e5b-11eb-8c47-2a37e9dca7ab.png)
 
 -----
 
