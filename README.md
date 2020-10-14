@@ -20,4 +20,5 @@ We had a sample of 30,000 people in which we had to perform Exploratory Data Ana
 American Sign Language (ASL) is the primary language used by many deaf individuals in North America, and it is also used by hard-of-hearing and hearing individuals. The language is as rich as spoken languages and employs signs made with the hand, along with facial gestures and bodily postures.
 In this project, we trained a convolutional neural network to classify images of ASL letters.
 
-<img src="final projects/screenshots/app.png ">
+
+![app](https://user-images.githubusercontent.com/55499787/96005202-db5b3d00-0e59-11eb-8d84-bbed07887ea1.png)
